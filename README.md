@@ -42,7 +42,7 @@ Styling: Css
 
 => Download our app from github 
 
-=> put this in root directory(Wamp => www, xampp => htdocs) -> unzip it. 
+=> put this in root directory(Wamp => www, xampp => htdocs) -> unzip it.(also unzip google-api-php-client and libs.rar
 
 => go to includes.php 
 ```
