@@ -33,6 +33,9 @@ Styling: Css
 
 => Right-Top corner select skip quick start.
 
+
+##Live link
+=>https://mistryakshay.000webhostapp.com/
 => After that in your app go to Settings Add: -> Namespace -> Contact Email
 
 => In settings +Add Platform-> Select Website Add: -> Site Url -> Domain NOTE : even if localhost url also works.
