@@ -1,15 +1,14 @@
 # Facebook Albums Download 
-Demo :-  [Facebook Albums Challenge](http://fzwebtech.com/rtCamp-Challenge)
+Demo :-  [Facebook Albums Challenge](https://mistryakshay.000webhostapp.com/)
 
 ## process :
 1. User Login using Facebook credentials. Ask user to give permission to access of email,cover_photo,name and photos. Application fetches all Albums which is added by user or in which user is tagged 
 2. Albums are displayed with a Thumbnail, Album Name. When a user clicks on Album cover-photo, all photos for that album are displayed in full screen slideshow.
 3. A "Download" link(in blue) is displayed for each album. When user clicks on "Download" link, jquery(Ajax) processes PHP script to collect photos for that album, Zip them and prompts "Download Zip Folder" Link to user for download
 4. An checkbox is displayed for each album. A "Download Selected Albums" link is displayed at top. When user clicks on "Download Selected Albums" link, jquery(Ajax) processes PHP script to collect photos for all checked albums, Zip them and prompts "Download Zip Folder" Link to user for download
-5. A "Download All Albums" link is displayed at top. When user clicks on "Download All Albums" link, jquery(Ajax) processes PHP script to collect photos for all albums, Zip them and prompts "Download Zip Folder" Link to user for download.
-
-
-
+5. A "Download All Albums" link is displayed at Navigation Menu. When user clicks on "Download All Albums" link, jquery(Ajax) processes PHP script to collect photos for all albums, Zip them and prompts "Download Zip Folder" Link to user for download.
+6.A Move All Albums link is display at Navigation Menu. when user clicks on "Move All" link  all albums will be moved to user's google drive.
+7.A Move selected Albums link is display at Navigation Menu. when user clicks on "Move" link  Selected albums will be moved to user's google drive.
 ## Library Used:
 
  * https://developers.facebook.com/docs/reference/php/4.0.0
@@ -54,5 +53,4 @@ Styling: Css
 =>  Run the index.php page and have fun
 
 
-##Live link
-=>https://mistryakshay.000webhostapp.com/
+
